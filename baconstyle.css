@@ -1,0 +1,32 @@
+
+
+body{
+  background-color: #ccffbd;
+}
+
+h1{
+  color: #40394a;
+  font-size: 50px;
+  font-family: cursive;
+
+}
+p{
+  font-size: 20px;
+  font-style: oblique;
+  font-family: sans-serif;
+}
+img:hover{
+  background-color: yellow;
+}
+
+/* class selector */
+
+.bacon {
+  background-color: #9ede73;
+}
+.eggplant{
+  background-color: #e2703a;
+}
+.circular{
+  border-radius: 100%;
+}
